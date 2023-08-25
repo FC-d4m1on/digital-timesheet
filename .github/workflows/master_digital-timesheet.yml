@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'digital-timesheet'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54B4C9201D8F446FBB3FE2A1E831AFDA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F164200D49A04693AACD1E34A63C06E8 }}
